@@ -1,0 +1,15 @@
+@font-face {
+  font-family: ASEMTOG_F700;
+  src: url('ASEMTOG_F700.ttf')  format('truetype')  ; 
+}
+
+.ui-keyboard-button {
+  font-family: ASEMTOG_F700, sans-serif;
+}
+.keyboard {
+  font-family: ASEMTOG_F700, sans-serif;
+  font-size: 32px;
+  width: 96%;
+  height: 500px;
+  /*padding-right:30px;*/
+}
