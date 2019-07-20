@@ -24,11 +24,16 @@ $('.keyboard').keyboard({
 ":t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :t :electricity_ :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :t :t :t :t :t :t :(not_a_symbol) :t :t :t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :",
 ":t :t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :t :t :t :t :(not_a_symbol) :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :t :t :t :t :(not_a_symbol) :",
 ":t :t :t :t :t :t :t :(not_a_symbol) :t :t :ownership_ :t :t :(not_a_symbol) :t :t :t :t :t :t :(not_a_symbol) :t :t :(not_a_symbol) :(not_a_symbol) :(not_a_symbol) :(not_a_symbol) :(not_a_symbol) :",
-":t :t :t :(not_a_symbol) :t :(not_a_symbol) :action_ :t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :enclosure_ :t :thing_ :t :t :t :(not_a_symbol) :t :t :(not_a_symbol) :t :(not_a_symbol) :t :(not_a_symbol) :t :t undefined:undefined"
+":t :t :t :(not_a_symbol) :t :(not_a_symbol) :action_ :t :t :t :(not_a_symbol) :t :t :t :(not_a_symbol) :enclosure_ :t :thing_ :t :t :t :(not_a_symbol) :t :t :(not_a_symbol) :t :(not_a_symbol) :t :(not_a_symbol) :t :t"
+
+ , "{tab}  {space} {space}  {space} {empty} {bksp} {empty}  {enter}"
+
 ]
 
 
 ////// end layout
+// , "{tab}  {space} {space} {bksp} {empty}  {enter}"
+
 			////'\u00a1(1) \u00a2(2) \u00a3(3) \u00a4(4) \u00a5(5) \u00a6(6)', 
       ////'\u03b1(a):lower_case_alpha \u03b2(b):lower_case_beta \u03b3(c):lower_case_gamma \u03b4(d):lower_case_delta \u03b5(e):lower_case_epsilon \u03b6(f):lower_case_zeta \u03b7(g):lower_case_eta', // lower case Greek
 			////'{shift} {accept} {cancel}'
